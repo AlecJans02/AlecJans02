@@ -7,7 +7,7 @@
 
 - 👨‍💻 A Majority of my projects are available on my portfolio page https://portfolio-git-master-alecjans02.vercel.app/
 
-- 🌱 I’m currently learning .NET and SQL databases
+- 🌱 I’m currently learning more about the .NET Framework along with Web API'S
 
 - 💬 Connect with me on Linked In at https://www.linkedin.com/in/alec-jansen-a1b78b278/ or email down below
 
