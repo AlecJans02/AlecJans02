@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alec Jansen</h1>
-<h3 align="center">A passionate frontend developer from Brisbane</h3>
+<h3 align="center">A passionate software developer from Brisbane</h3>
 
 # About Me
 
 - 🔭 I’m currently working on a full stack project with C#, React and SQL
 
-- 👨‍💻 A Majority of my projects are available on my portfolio page https://portfolio-git-master-alecjans02.vercel.app/
+- 👨‍💻 A Majority of my projects are available on my portfolio page https://alec-jansen-portfolio-page-git-main-alecjans02.vercel.app/
 
-- 🌱 I’m currently learning more about the .NET Framework along with Web API'S
+- 🌱 I’m currently learning more about the .NET Framework along with Restful API'S
 
 - 💬 Connect with me on Linked In at https://www.linkedin.com/in/alec-jansen-a1b78b278/ or email down below
 
